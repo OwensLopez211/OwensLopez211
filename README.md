@@ -18,7 +18,7 @@ Soy un desarrollador Full Stack especializado en crear aplicaciones web modernas
 Breve descripción de lo que hace y las tecnologías utilizadas
 
 ## Estadísticas de GitHub 📊
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OwensLopez211&show_icons=true&theme=radical)
 
 ## Contacto 📫
 - LinkedIn: [Tu Perfil](tu-link)
