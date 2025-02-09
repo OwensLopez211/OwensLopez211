@@ -18,9 +18,10 @@ Desarrollador Full Stack apasionado por crear interfaces intuitivas y sistemas e
 
 ## Estadísticas & Contacto 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwensLopez211&show_icons=true&theme=radical)
+Note: Getting better my stats ;)
 
 [![GitHub](https://img.shields.io/badge/GitHub-@OwensLopez211-black?style=flat&logo=github)](https://github.com/OwensLopez211)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Owens_López-blue?style=flat&logo=linkedin)](https://linkedin.com/in/owenslopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Owens_López-blue?style=flat&logo=linkedin)](https://linkedin.com/in/owens-l%C3%B3pez)
 
 ## Intereses & Aprendizaje 🌱
 - 🚀 **Tecnologías:** Arquitecturas Docker · React Performance · NoSQL · AWS Cloud
