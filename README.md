@@ -8,18 +8,17 @@ Desarrollador Full Stack apasionado por crear interfaces intuitivas y sistemas e
 
 ## Stack Tecnológico 🛠
 
-**Frontend:** React.js (ES6+) · Context API · TailwindCSS · Figma · UI/UX · Optimización & Lazy Loading  
+**Frontend:** React.js (ES6+) · Context API · TailwindCSS · Figma · UI/UX   
 **Backend:** Django · Python · REST APIs · Auth · PostgreSQL/MySQL · MongoDB · Redis  
 **DevOps:** Docker · Nginx · Gunicorn · Git · Linux · Power BI
 
-## Experiencia & Educación 🎓
+## Educación 🎓
 - 🎯 **Ingeniero en Informática** | INACAP (2021-2024)
 - 💻 **Técnico Analista Programador** | INACAP (2021-2023)
 
 ## Estadísticas & Contacto 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwensLopez211&show_icons=true&theme=radical)
 
-Note: Getting better my stats ;)
 
 [![GitHub](https://img.shields.io/badge/GitHub-@OwensLopez211-black?style=flat&logo=github)](https://github.com/OwensLopez211)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Owens_López-blue?style=flat&logo=linkedin)](https://linkedin.com/in/owens-l%C3%B3pez)
