@@ -8,7 +8,7 @@ Desarrollador Full Stack apasionado por crear interfaces intuitivas y sistemas e
 
 ## Stack Tecnológico 🛠
 
-**Frontend:** React.js (ES6+) · Context API · TailwindCSS · Figma · UI/UX   
+**Frontend:** React.js (ES6+) · Vite · Context API · TailwindCSS · Figma · UI/UX   
 **Backend:** Django · Python · REST APIs · Auth · PostgreSQL/MySQL · MongoDB · Redis  
 **DevOps:** Docker · Nginx · Gunicorn · Git · Linux · Power BI
 
