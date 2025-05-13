@@ -14,7 +14,7 @@ Desarrollador Full Stack apasionado por crear interfaces intuitivas y sistemas e
 
 ## Educación 🎓
 - 🎯 **Ingeniero en Informática** | INACAP (2021-2024)
-- 💻 **Técnico Analista Programador** | INACAP (2021-2023)
+- 💻 **Técnico Analista Programador** | INACAP (2021-2022)
 
 ## Estadísticas & Contacto 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwensLopez211&show_icons=true&theme=radical)
